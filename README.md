@@ -1,5 +1,8 @@
 # PRTG-Status-Page
-This PRTG status page is a drop in place, front-end dashboard for monitoring many similar, but separate, items from PRTG Network Monitor. This status page is best suited for those who have many items nested in PRTG, but want a quick and clean, indicative, dashboard to see if anything is wrong within an environment. GetJSON.php is written to pull single and multi-dimensional array objects from PRTG's API, and re-write them to a standardized format for easy parsing and display.
+This project provides a front-end dashboard for monitoring many similar, but separate, items from PRTG Network Monitor. This status page is best suited for those who have many items nested in PRTG, but want a quick and clean, indicative, dashboard to quickly find any problems within an environment. 
+
+* GetJSON.php is written to pull single and multi-dimensional array objects from PRTG's API, and re-write them to a standardized format for easy parsing and display.
+* index.php provides a basic, but functional, interface to display the status of sensors with a 30 second automatic refresh.
 
 ![Dashboard Example](https://trucyan.com/dashboard/dashboard.png)
 
