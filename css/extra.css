@@ -1,0 +1,87 @@
+body {
+	font-family: "montserrat", "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+
+b, strong {
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 2.4rem;
+	margin-top: 1.5rem;
+}
+
+.counter {
+	font-size: 14px;
+}
+
+.card-header {
+	padding: 0rem .50rem;
+}
+
+.card-body {
+	padding: .50rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.panel-success {
+	border-radius: 4px;
+	background-color:#56be8e;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -o-border-radius: 4px;
+    -ms-border-radius: 4px;
+	padding: 1rem 1.25rem;
+	border: 1px solid rgba(0,0,0,0.1);
+	margin: 30px 0px;
+}
+
+.panel-success>.panel-heading { 
+    text-shadow: 0 1px 0 rgba(0,0,0,0.1);
+	color: #fff;
+	background-color: #56be8e;
+	border-color: #56be8e;
+	font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    line-height: 1.8125rem;
+}
+
+.panel-title {	
+	font-size: 20px;
+	font-weight: 500;
+	margin-top: 0;
+	margin-bottom: 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.status-right {
+	font-size: .8rem;
+}
+
+.badge {
+  padding: 0.15em .4rem;
+  margin: 1px;
+  font-weight: 300;
+  border-radius: 0px;
+  text-align: left;
+}
+
+.badge-success {
+  color: #fff;
+  background-color: #56be8e;
+}
+
+.badge:hover {
+	background-color: #363948;
+	cursor: pointer;
+	-webkit-transition: background-color 1s ease-out;
+	-moz-transition: background-color 1s ease-out;
+	-o-transition: background-color 1s ease-out;
+	transition: background-color 1s ease-out;
+}
