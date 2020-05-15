@@ -8,7 +8,6 @@
 	<script src="https://unpkg.com/@popperjs/core@2"></script>
 	<script src="https://unpkg.com/tippy.js@6"></script>
 </head>
-
 <body>
 	<div class="container">
 		<div class="row">
@@ -43,7 +42,7 @@
 				<div class="card border-light mb-3">
 					<div class="card-header">Application Servers</div>
 					<div class="card-body">
-						<p id="application" class="card-text"></span></p>
+						<p id="application" class="card-text"></p>
 					</div>
 				</div>
 				<div class="card border-light mb-3">
@@ -61,7 +60,6 @@
 			</div>
 		</div>
 	</div>
-  
 	<script type="text/javascript">
 		///////////////////////////////////////
 		////////// Start the timers! //////////
