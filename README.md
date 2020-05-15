@@ -6,11 +6,10 @@ This project provides a front-end dashboard for monitoring many similar, but sep
 
 ![Dashboard Example](https://trucyan.com/dashboard/dashboard.png)
 
-If you like this project, or if it has helped you in any way, feel free to buy me a beer!
-[![Paypal](https://img.shields.io/badge/donate-paypal-2c9eda.svg?style=flat&colorA=0b3684)](https://www.paypal.me/rozzly/5)
+[![Paypal](https://img.shields.io/badge/donate-paypal-2c9eda.svg?style=flat&colorA=0b3684)](https://www.paypal.me/rozzly/5) - If you like this project, or if it has helped you in any way, feel free to buy me a beer!
 
 # Links
-* [DEMO](https://trucyan.com/dashboard) - JSON templates replicate actual API output from PRTG. `All data on this page is fictitious and randomly generated.`
+* [DEMO](https://trucyan.com/dashboard) - JSON templates replicate API output from PRTG. `All data on this page is fictitious and randomly generated.`
 * [PRTG](https://www.paessler.com/) - Paessler PRTG Network Monitor // Free for up to 100 device sensors
 
 # Setup
