@@ -1,4 +1,4 @@
-# PRTG-Status-Page
+# PRTG Status Page
 This project provides a front-end dashboard for monitoring many similar, but separate, items from PRTG Network Monitor. This status page is best suited for those who have many items nested in PRTG, but want a quick and clean, indicative, dashboard to quickly find any problems within an environment. 
 
 * GetJSON.php is written to pull single and multi-dimensional array objects from PRTG's API, and re-write them to a standardized format for easy parsing and display.
@@ -6,8 +6,11 @@ This project provides a front-end dashboard for monitoring many similar, but sep
 
 ![Dashboard Example](https://trucyan.com/dashboard/dashboard.png)
 
+If you like this project, or if it has helped you in any way, feel free to buy me a beer!
+[![Paypal](https://img.shields.io/badge/donate-paypal-2c9eda.svg?style=flat&colorA=0b3684)](https://www.paypal.me/rozzly/5)
+
 # Links
-* [DEMO](https://trucyan.com/dashboard) - JSON templates replicate actual API output from PRTG. All data on this page is fictitious and randomly generated.
+* [DEMO](https://trucyan.com/dashboard) - JSON templates replicate actual API output from PRTG. `All data on this page is fictitious and randomly generated.`
 * [PRTG](https://www.paessler.com/) - Paessler PRTG Network Monitor // Free for up to 100 device sensors
 
 # Setup
